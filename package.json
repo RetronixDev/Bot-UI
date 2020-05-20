@@ -1,0 +1,19 @@
+{
+  "name": "sudhan-bot-ui",
+  "version": "0.0.1",
+  "description": "A simple Bot UI for big websites to use. It has many Features!",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "botui": "^0.3.8"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/SudhanPlayz/sudhan-bot-ui/"
+  }
+}
